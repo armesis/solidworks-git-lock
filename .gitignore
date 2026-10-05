@@ -1,0 +1,2 @@
+# Build output (also holds copies of the SOLIDWORKS interop DLLs, which must not be redistributed)
+bin/

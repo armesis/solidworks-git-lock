@@ -1,0 +1,11 @@
+# SOLIDWORKS temporary / lock files
+~$*
+*.swbak
+*.bak
+Backup of *
+AutoRecover of *
+*.tmp
+
+# Windows
+Thumbs.db
+desktop.ini
